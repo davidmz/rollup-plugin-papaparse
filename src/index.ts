@@ -19,7 +19,7 @@ const urlConfigArgs = new Map<keyof ParseConfig, (s: string) => any>([
 ]);
 
 export default function rollupPluginPapaparse({
-  extensions = ["csv"],
+  extensions = [".csv"],
   ...papaConf
 }: Options = {}): RollupPlugin {
   return {
