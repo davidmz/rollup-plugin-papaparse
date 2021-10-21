@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-papaparse",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "CSV import Rollup plugin based on papaparse",
   "keywords": [
     "rollup-plugin",
