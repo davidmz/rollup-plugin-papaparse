@@ -7,7 +7,7 @@ using the [papaparse](https://www.papaparse.com/) library.
 
 ## Installation
 
-Just execute `npm install --save-dev rollup-plugin-papaparse` or `yarn add rollup-plugin-paparse --dev`.
+Just execute `npm install --save-dev rollup-plugin-papaparse` or `yarn add rollup-plugin-papaparse --dev`.
 
 ## Usage
 
